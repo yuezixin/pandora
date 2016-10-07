@@ -5,5 +5,5 @@
 2. 通讯层 ：已完成服务端。
 
 
-第一版会在9月底发布。
+ 
 有什么问题或建议请戳[这儿](https://github.com/yuezixin/pandora/issues/1)
